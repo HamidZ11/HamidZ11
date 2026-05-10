@@ -1,6 +1,6 @@
 # Hamid Aziz
 
-Software Engineering student at the University of Salford building full-stack systems, data-driven applications, and AI-oriented tools.
+Second year Software Engineering student at the University of Salford building full-stack systems, data-driven applications, and AI-oriented tools.
 
 ## Current Focus
 
