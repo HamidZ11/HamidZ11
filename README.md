@@ -1,78 +1,31 @@
 # Hamid Aziz
 
-Software Engineering student at the University of Salford focused on building full-stack systems, data-driven applications, and practical software systems.
-
-Currently balancing university with part-time work while building projects to strengthen real-world engineering skills.
-
----
+Software Engineering student at the University of Salford building full-stack systems, data-driven applications, and AI-oriented tools.
 
 ## Current Focus
 
-- Building full-stack systems with React, TypeScript, FastAPI, and PostgreSQL
-- Strengthening computer science fundamentals and backend engineering skills
-- Exploring AI applications, automation, and data-driven systems
-- Improving software architecture, APIs, databases, and deployment workflows
-
----
+- Full-stack development with React, TypeScript, FastAPI, and PostgreSQL
+- Backend engineering, APIs, and databases
+- AI applications, automation, and scalable systems
+- Strengthening CS fundamentals and system design skills
 
 ## Featured Projects
 
 ### Internship Radar
+Full-stack internship aggregation platform with scraping, enrichment, scoring, filtering, and tracking features.
 
-Full-stack internship aggregation platform that scrapes listings from multiple sources, enriches descriptions, scores opportunities, and provides filtering and tracking features.
-
-Tech Stack:
-- React
-- TypeScript
-- FastAPI
-- PostgreSQL
-- SQLAlchemy
-
----
+Stack: React, TypeScript, FastAPI, PostgreSQL
 
 ### Rota App
+Staff rota management system for scheduling, availability handling, and shift management.
 
-Staff rota management system designed for scheduling, shift management, and availability handling.
-
-Tech Stack:
-- TypeScript
-- React
-- Backend APIs
-- Database systems
-
----
+Stack: TypeScript, React, Backend APIs
 
 ## Tech Stack
 
-### Frontend
-- React
-- Next.js
-- TypeScript
-- TailwindCSS
-
-### Backend
-- FastAPI
-- Node.js
-- PostgreSQL
-- SQLAlchemy
-- REST APIs
-
-### Tools & Infrastructure
-- Git
-- GitHub Actions
-- Docker
-- Linux/macOS
-
----
-
-## Current Goals
-
-- Build production-grade full-stack systems
-- Improve DSA and systems fundamentals
-- Develop stronger backend and infrastructure knowledge
-- Move toward AI engineering and scalable software systems
-
----
+Frontend: React, Next.js, TypeScript, TailwindCSS  
+Backend: FastAPI, Node.js, PostgreSQL, SQLAlchemy  
+Tools: Git, GitHub Actions, Docker
 
 ## Contact
 
