@@ -1,33 +1,35 @@
 # Hamid Aziz
 
-Second year Software Engineering student at the University of Salford building full-stack systems, data-driven applications, and AI-oriented tools.
+Second-year Software Engineering student at the University of Salford with an interest in backend engineering, machine learning, and building software from end to end.
 
-## Current Focus
+## Currently
 
-- Full-stack development with React, TypeScript, FastAPI, and PostgreSQL
-- Backend engineering, APIs, and databases
-- AI applications, automation, and scalable systems
-- Strengthening CS fundamentals and system design skills
+- Building full-stack applications with Next.js, React, TypeScript, FastAPI and PostgreSQL
+- Learning machine learning engineering and production AI systems
+- Strengthening software engineering fundamentals and system design
 
 ## Featured Projects
 
+### GridCast AI
+Machine learning platform for forecasting UK electricity demand using historical NESO data. Includes a FastAPI backend, forecasting pipeline, SHAP explainability, scenario simulation and an interactive analytics dashboard.
+
+**Stack:** Next.js · TypeScript · FastAPI · Python · scikit-learn · XGBoost
+
 ### Internship Radar
-Full-stack internship aggregation platform with scraping, enrichment, scoring, filtering, and tracking features.
+Platform for discovering, scoring and tracking internship applications from multiple sources.
 
-Stack: React, TypeScript, FastAPI, PostgreSQL
+**Stack:** React · TypeScript · Node.js · PostgreSQL
 
-### Rota App
-Staff rota management system for scheduling, availability handling, and shift management.
+## Tech
 
-Stack: TypeScript, React, Backend APIs
+**Frontend:** React, Next.js, TypeScript, Tailwind CSS
 
-## Tech Stack
+**Backend:** FastAPI, Node.js, PostgreSQL, SQLAlchemy
 
-Frontend: React, Next.js, TypeScript, TailwindCSS  
-Backend: FastAPI, Node.js, PostgreSQL, SQLAlchemy  
-Tools: Git, GitHub Actions, Docker
+**Machine Learning:** scikit-learn, XGBoost, pandas, SHAP
 
-## Contact
+## Links
 
-- LinkedIn: www.linkedin.com/in/hamid-aziz-05858a33b
-- Portfolio: www.hamidaziz.com
+Portfolio: https://hamidaziz.com
+
+LinkedIn: https://www.linkedin.com/in/hamid-aziz-05858a33b
