@@ -1,6 +1,6 @@
 # Hamid Aziz
 
-Second-year Software Engineering student at the University of Salford with an interest in backend engineering, machine learning, and building software from end to end.
+Third (final)-year Software Engineering student at the University of Salford with an interest in backend engineering, machine learning, and building software from end to end.
 
 ## Currently
 
