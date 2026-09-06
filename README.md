@@ -16,13 +16,12 @@ Machine learning platform for forecasting UK electricity demand using historical
 
 **Stack:** Next.js · TypeScript · FastAPI · Python · scikit-learn · XGBoost
 
-### [Internship Radar](https://github.com/HamidZ11/internship_radar)
-
-Platform for discovering, scoring and tracking internship applications from multiple sources.
-
-**Stack:** React · TypeScript · Node.js · PostgreSQL
 
 ### [Patchwork](https://github.com/HamidZ11/patchwork)
+
+Full-stack platform for collecting, organising and analysing customer feedback from multiple sources, helping turn scattered feedback into structured product insights.
+
+**Stack:** Next.js · TypeScript · FastAPI · Python · PostgreSQL
 
 ## Tech
 
