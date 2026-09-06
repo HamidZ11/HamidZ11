@@ -5,7 +5,7 @@ I am a Third (final)-year Software Engineering student at the University of Salf
 ## Currently
 
 - Building full-stack applications with Next.js, React, TypeScript, FastAPI and PostgreSQL
-- Looking for a job (graduate roles/internships, I'm graduating summer 2027
+- Looking for a job (graduate roles/internships, I'm graduating summer 2027)
 - Strengthening software engineering fundamentals and system design , grinding neetcode & learning how systems actually work
 
 ## Featured Projects
