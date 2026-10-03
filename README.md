@@ -19,9 +19,9 @@ Machine learning platform for forecasting UK electricity demand using historical
 
 ### [Patchwork](https://github.com/HamidZ11/patchwork)
 
-Full-stack platform for collecting, organising and analysing customer feedback from multiple sources, helping turn scattered feedback into structured product insights.
+Developer tool that detects when third-party API changes affect a codebase, identifies the exact usages through static analysis, applies safe deterministic migrations, verifies the changes in an isolated sandbox, and prepares a tested pull request.
 
-**Stack:** Next.js · TypeScript · FastAPI · Python · PostgreSQL
+**Stack:** Next.js · TypeScript · Fastify · PostgreSQL 
 
 ## Tech
 
